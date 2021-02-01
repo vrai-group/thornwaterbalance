@@ -24,6 +24,10 @@ Results are:
  - Excel data file
  - Set of graphical plots in png format.
 
+Dependencies could be installed using the following command:
+
+    pip install -r requirements.txt
+
 The code is licensed under the GNU GENERAL PUBLIC LICENSE umbrella.
 
 
