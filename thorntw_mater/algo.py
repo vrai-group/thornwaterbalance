@@ -6,9 +6,6 @@ import pandas as pd
 
 URL_K_LAT_DATA = "https://thornwaterbalanceapp.s3.amazonaws.com/data/K_latN_S.csv"
 
-def hello():
-    print("ciao")
-
 def thorntw_mater_proc(source_path, LAT, SM, SRT, beta, mean_calc, file_out, img_out, plot_show = False):
     """
     This function is a python implementation of the thornwater balance
